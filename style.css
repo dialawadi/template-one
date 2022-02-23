@@ -1,4 +1,5 @@
 /*Start variables*/
+
 :root {
 --main-color: #10cab7;
 --secondry-color: #2c4755;
@@ -15,9 +16,11 @@ box-sizing: border-box;
 }
 html {
 scroll-behavior: smooth;
+
 }
 body {
 font-family: "Work Sans", sans-serif;
+
 }
 
 .container {
@@ -25,6 +28,7 @@ padding-left: 15px;
 padding-right: 15px;
 margin-right: auto;
 margin-left: auto;
+overflow: hidden;
 }
 
 /* Small screens*/
